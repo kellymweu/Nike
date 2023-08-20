@@ -8,3 +8,7 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 I have created this Nike Clone from Javascript Mastery youtube.
+
+# Deployed on VERCEL
+Check Out My Nike Clone at
+## https://nike-8urb.vercel.app/
